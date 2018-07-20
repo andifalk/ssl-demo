@@ -25,3 +25,6 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+setup_ca/root-ca
+setup_ca/server
