@@ -9,7 +9,7 @@ on [blog.novatec-gmbh.de](https://blog.novatec-gmbh.de).
 
 ## Using this demo project
 
-You can either use this project either 
+You can use this project 
 
 1. directly without changing anything here.
 The only thing you have to do is to import the root certificate in 
