@@ -6,6 +6,7 @@ on [blog.novatec-gmbh.de](https://blog.novatec-gmbh.de).
 ## System Requirements
 
 * Java 11 SDK
+* Kotlin
 
 ## Using this demo project
 
