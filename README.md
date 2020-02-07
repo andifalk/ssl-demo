@@ -5,7 +5,7 @@ on [blog.novatec-gmbh.de](https://blog.novatec-gmbh.de).
 
 ## System Requirements
 
-* Java 9 SDK
+* Java 11 SDK
 
 ## Using this demo project
 
