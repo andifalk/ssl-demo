@@ -1,6 +1,7 @@
 # SSL Demo Application
 
-This is the accompanying project code for the blog post for _Secure Spring Boot Applications with TLS and HTTP/2_
+This is the accompanying project code for the blog post 
+for [Secure Spring Boot Applications with TLS and HTTP/2](https://www.novatec-gmbh.de/en/blog/spring-boot-applications-tls-http2/) 
 on [blog.novatec-gmbh.de](https://blog.novatec-gmbh.de).
 
 ## System Requirements
